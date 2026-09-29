@@ -1,4 +1,7 @@
 package fabricajoias;
 
-public class Material {
+public interface Material {
+
+    float percentualAumento();
+
 }

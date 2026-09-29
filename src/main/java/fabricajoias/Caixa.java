@@ -1,8 +1,8 @@
 package fabricajoias;
 
-public class Brinco extends Acessorio{
+public class Caixa extends Acessorio{
 
-    public Brinco(float valorBase) {
+    public Caixa(float valorBase) {
         super(valorBase);
     }
 
